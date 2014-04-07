@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+environment/project/com.android.toolchain.gcc.1885501808/MAKEFLAGS/delimiter=\:
+environment/project/com.android.toolchain.gcc.1885501808/MAKEFLAGS/operation=replace
+environment/project/com.android.toolchain.gcc.1885501808/MAKEFLAGS/value=-j10
+environment/project/com.android.toolchain.gcc.1885501808/NDK_DEBUG/delimiter=\:
+environment/project/com.android.toolchain.gcc.1885501808/NDK_DEBUG/operation=replace
+environment/project/com.android.toolchain.gcc.1885501808/NDK_DEBUG/value=1
+environment/project/com.android.toolchain.gcc.1885501808/NDK_MODULE_PATH/delimiter=\:
+environment/project/com.android.toolchain.gcc.1885501808/NDK_MODULE_PATH/operation=replace
+environment/project/com.android.toolchain.gcc.1885501808/NDK_MODULE_PATH/value=/Users/roscus/sourcecode/github/cocos2d-x\:/Users/roscus/sourcecode/github/cocos2d-x/cocos2dx/platform/third_party/android/prebuilt\:/Users/roscus/sourcecode/github/common-sdk/ndsdk/Classes
+environment/project/com.android.toolchain.gcc.1885501808/append=true
+environment/project/com.android.toolchain.gcc.1885501808/appendContributed=true
